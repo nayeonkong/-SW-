@@ -22,7 +22,7 @@ ________________________________________________________________________________
 
 * [계획 수립 및 시장조사](https://github.com/nayeonkong/SW_Project/tree/main/1.%20%EA%B3%84%ED%9A%8D%20%EC%88%98%EB%A6%BD%20%EB%B0%8F%20%EC%8B%9C%EC%9E%A5%EC%A1%B0%EC%82%AC)
 * [중간 발표자료](https://github.com/nayeonkong/SW_Project/tree/main/2.%20%EC%A4%91%EA%B0%84%20%EB%B0%9C%ED%91%9C%EC%9E%90%EB%A3%8C)
-* 아이디어 변경
+* [아이디어 변경](https://github.com/nayeonkong/SW_Project/tree/main/3.%20%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%B3%80%EA%B2%BD)
 * 프로그램 설계
 * 프로그램 소스
 * 최종 결과보고 및 발표자료
