@@ -28,7 +28,7 @@ ________________________________________________________________________________
 * [초기발표](https://github.com/nayeonkong/SW_Project/tree/main/2.%20%EC%B4%88%EA%B8%B0%EB%B0%9C%ED%91%9C)
 * [아이디어 변경](https://github.com/nayeonkong/SW_Project/tree/main/3.%20%EC%95%84%EC%9D%B4%EB%94%94%EC%96%B4%EB%B3%80%EA%B2%BD)
 * [중간발표](https://github.com/nayeonkong/SW_Project/tree/main/4.%20%EC%A4%91%EA%B0%84%EB%B0%9C%ED%91%9C)
-* [프로그램 설계] (https://github.com/nayeonkong/SW_Project/tree/main/5.%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%84%A4%EA%B3%84)
+* [프로그램 설계](https://github.com/nayeonkong/SW_Project/tree/main/5.%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%A8%20%EC%84%A4%EA%B3%84)
 * [프로그램 소스]
 * [최종 결과보고 및 발표자료]
 
